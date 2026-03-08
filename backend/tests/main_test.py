@@ -1,5 +1,5 @@
 import unittest
-from backend.app.main import s
+from app.main import s
 
 class TestSFunction(unittest.TestCase):
 
